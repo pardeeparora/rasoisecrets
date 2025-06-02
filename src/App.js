@@ -19,7 +19,7 @@ function App() {
       {/* Hero Section */}
       <header className="bg-green-100 text-center py-12">
         <h1 className="text-4xl font-bold text-green-700 mb-4">
-          🍳 Welcome to Rasoi Secrets
+          🍳 Welcome to Indian Rasoi Secrets
         </h1>
         <p className="text-lg text-gray-700 max-w-xl mx-auto">
           Discover homemade vegetarian Indian recipes with step-by-step cooking videos.
