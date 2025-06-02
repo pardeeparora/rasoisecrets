@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rasoisecrets/static/css/main.a61f7559.css",
-    "main.js": "/rasoisecrets/static/js/main.41488009.js",
+    "main.js": "/rasoisecrets/static/js/main.d38e2d67.js",
     "static/js/453.43bc05f3.chunk.js": "/rasoisecrets/static/js/453.43bc05f3.chunk.js",
     "index.html": "/rasoisecrets/index.html",
     "main.a61f7559.css.map": "/rasoisecrets/static/css/main.a61f7559.css.map",
-    "main.41488009.js.map": "/rasoisecrets/static/js/main.41488009.js.map",
+    "main.d38e2d67.js.map": "/rasoisecrets/static/js/main.d38e2d67.js.map",
     "453.43bc05f3.chunk.js.map": "/rasoisecrets/static/js/453.43bc05f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a61f7559.css",
-    "static/js/main.41488009.js"
+    "static/js/main.d38e2d67.js"
   ]
 }
