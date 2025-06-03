@@ -4,9 +4,9 @@ import "./App.css";
 
 function App() {
   const [videos, setVideos] = useState([]);
-
+  const basePath = process.env.PUBLIC_URL || '';
   useEffect(() => {
-    fetch("/videos.json")
+    fetch(`${basePath}/videos.json`)
       .then((res) => res.json())
       .then((data) => setVideos(data))
       .catch((err) => console.error("Error fetching videos:", err));
