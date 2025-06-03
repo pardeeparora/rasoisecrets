@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rasoisecrets/static/css/main.0de3b0cf.css",
-    "main.js": "/rasoisecrets/static/js/main.4519bae3.js",
-    "static/js/453.43bc05f3.chunk.js": "/rasoisecrets/static/js/453.43bc05f3.chunk.js",
-    "index.html": "/rasoisecrets/index.html",
-    "main.0de3b0cf.css.map": "/rasoisecrets/static/css/main.0de3b0cf.css.map",
-    "main.4519bae3.js.map": "/rasoisecrets/static/js/main.4519bae3.js.map",
-    "453.43bc05f3.chunk.js.map": "/rasoisecrets/static/js/453.43bc05f3.chunk.js.map"
+    "main.css": "./static/css/main.0de3b0cf.css",
+    "main.js": "./static/js/main.a108f809.js",
+    "static/js/453.43bc05f3.chunk.js": "./static/js/453.43bc05f3.chunk.js",
+    "index.html": "./index.html",
+    "main.0de3b0cf.css.map": "./static/css/main.0de3b0cf.css.map",
+    "main.a108f809.js.map": "./static/js/main.a108f809.js.map",
+    "453.43bc05f3.chunk.js.map": "./static/js/453.43bc05f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0de3b0cf.css",
-    "static/js/main.4519bae3.js"
+    "static/js/main.a108f809.js"
   ]
 }
